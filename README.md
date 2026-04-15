@@ -1,4 +1,4 @@
-# SMX-elevator-simulator
+# elevator-simulator
 - Provide code that simulates an elevator. You are free to use any language.
 - Document all assumptions and any features that weren't implemented.
 - The result should be an executable, or script, that can be run with the following inputs and generate the following outputs.
